@@ -1,0 +1,9 @@
+.vs/*
+
+WebApiTest/bin/*
+WebApiTest/obj/*
+WebApiTest/Properties/*
+
+Taogar.WebApi.EndPointsBuilder/bin/*
+Taogar.WebApi.EndPointsBuilder/obj/*
+Taogar.WebApi.EndPointsBuilder/Properties/*
